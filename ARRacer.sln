@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARRacer", "ARRacer.csproj", "{5816F2D7-8711-F435-4BE7-EED8C4100C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARRacer.Editor", "ARRacer.Editor.csproj", "{6F5AF050-1E86-98ED-0F28-B9E9AA197CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5816F2D7-8711-F435-4BE7-EED8C4100C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5816F2D7-8711-F435-4BE7-EED8C4100C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5816F2D7-8711-F435-4BE7-EED8C4100C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5816F2D7-8711-F435-4BE7-EED8C4100C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F5AF050-1E86-98ED-0F28-B9E9AA197CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5AF050-1E86-98ED-0F28-B9E9AA197CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5AF050-1E86-98ED-0F28-B9E9AA197CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5AF050-1E86-98ED-0F28-B9E9AA197CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
